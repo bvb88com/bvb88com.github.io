@@ -1,1 +1,1 @@
-window.location.href="www.8889.io"
+window.location.href="http://www.8889.io"
